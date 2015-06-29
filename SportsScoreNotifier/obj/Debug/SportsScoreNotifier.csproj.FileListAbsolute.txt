@@ -1,0 +1,2 @@
+c:\users\00619461\documents\visual studio 2013\Projects\SportsScoreNotifier\SportsScoreNotifier\bin\Debug\SportsScoreNotifier.exe.config
+C:\Users\00619461\Desktop\Sports Score Notifier\SportsScoreNotifier\bin\Debug\SportsScoreNotifier.exe.config
